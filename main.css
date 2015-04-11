@@ -621,11 +621,9 @@ div.extra {
 
 
 
-.swing {
-  -webkit-transform-origin: top center;
-  transform-origin: top center;
-  -webkit-animation-name: swing;
-  animation-name: swing;
+.tada {
+  -webkit-animation-name: tada;
+  animation-name: tada;
 }
 
 @media screen and (max-width: 1280px) {
